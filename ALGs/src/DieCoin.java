@@ -17,7 +17,7 @@ public class DieCoin {
 		else {
 			System.out.println("It's a tail");
 		}
-
+		
 	}
 
 }
